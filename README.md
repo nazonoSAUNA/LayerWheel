@@ -1,5 +1,6 @@
 # LayerWheel
 拡張編集のレイヤーの部分でマウスホイールすると縦スクロールになるプラグイン
+
 [ダウンロードはこちら](../../releases/)
 
 ![image](https://user-images.githubusercontent.com/99536641/236213033-f229601c-639d-4f29-8e66-93050382b2aa.png)
